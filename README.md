@@ -19,3 +19,32 @@ Classes used in this profile:
 1. [GSQ Geological property](https://github.com/geological-survey-of-queensland/geofeatures-ont)
 2. [GSQ Observation](https://github.com/geological-survey-of-queensland/gsq-dataset-profile)
 3. [GSQ Dataset](https://github.com/geological-survey-of-queensland/gsq-dataset-profile)
+
+## OWL classes
+1. [dct:identifier](https://w3c.github.io/dxwg/dcat/#Property:resource_identifier)
+2. [dct:created](https://w3c.github.io/dxwg/dcat/)
+3. [dct:modified](https://w3c.github.io/dxwg/dcat/#Property:resource_update_date)
+4. [rdfs:seeAlso](https://www.w3.org/TR/rdf-schema/#ch_seealso) - refers to secondary metadata
+5. [FOAF document](http://xmlns.com/foaf/spec/#term_Document) - a document with secondary metadata
+
+## [Distribution](https://w3c.github.io/dxwg/dcat/#Class:Distribution) properties not shown in the diagram:
+No distribution properties for Results template
+
+## Vocabularies
+1. [Results type](https://vocabs.gsq.digital/vocabulary/result-type)
+
+## License
+The content of this repository is licensed for use with the [Creative Commons 4.0 License](https://creativecommons.org/licenses/by/4.0/). See the [license deed](LICENSE) for details.
+
+## Contacts 
+*owner*:  
+**Mark Gordon**  
+*Director - Geoscience Information*  
+Geological Survey of Queensland  
+<mark.gordon@dnrme.qld.gov.au>   
+
+*author*:  
+**Your Name**  
+*Your Role Title - Your Unit*  
+Geological Survey of Queensland  
+<your.email@dnrme.qld.gov.au>
